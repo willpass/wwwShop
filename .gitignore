@@ -45,14 +45,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-*.zip
-/.idea/
-/node_modules/
-/temp/backup/*
-/temp/caches/*
-/temp/query_caches/*
-/temp/static_caches/*
-*.doc
-*.bak
-/mobile/
-/themes/*
